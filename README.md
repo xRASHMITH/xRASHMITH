@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm xRASHMITH</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 <br>
 <h3 align="left">Connect with me: wa.me//716314859</h3>
 <p align="left">
